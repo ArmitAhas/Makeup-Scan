@@ -1,0 +1,11 @@
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide1.JPG" alt="slide1">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide2.JPG" alt="slide2">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide3.JPG" alt="slide3">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide4.JPG" alt="slide4">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide5.JPG" alt="slide5">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide6.JPG" alt="slide6">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide7.JPG" alt="slide7">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide8.JPG" alt="slide8">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide9.JPG" alt="slide9">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide10.JPG" alt="slide10">
+<img src="https://github.com/ArmitAhas/Makeup-Scan/blob/master/Makeupscan/Slide11.JPG" alt="slide11">
